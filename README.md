@@ -2,5 +2,4 @@
 
 O ReadMe ainda está em andamento. Aguarde...
 
-![gato](/imgReadMe/gato.png)
-
+![gato](gato.png)
