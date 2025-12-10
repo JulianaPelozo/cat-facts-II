@@ -5,7 +5,7 @@ const theme = {
   ...MD3LightTheme,
   colors: {
     ...MD3LightTheme.colors,
-    primary: "#B980F0",     // lilás fofo
+    primary: "#B980F0",     
     secondary: "#D6B4FC",
     surface: "#F7ECFF",
     background: "#FFF6FF",

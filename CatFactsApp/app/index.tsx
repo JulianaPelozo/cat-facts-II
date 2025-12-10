@@ -32,7 +32,7 @@ export default function HomeScreen() {
         backgroundColor: "#FFF6FF",
       }}
     >
-      {/* ícone de patinha fofinha */}
+    
       <Image
         source={{
          uri: "https://cdn-icons-png.flaticon.com/512/1864/1864514.png",
@@ -67,7 +67,7 @@ export default function HomeScreen() {
         </Button>
       </Link>
 
-      {/* patinhas decorativas */}
+  
       <Image
         source={{
           uri: "https://cdn-icons-png.flaticon.com/512/1818/1818402.png",
