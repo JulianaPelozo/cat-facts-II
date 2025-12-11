@@ -47,7 +47,7 @@ export default function HomeScreen() {
       />
 
       <Card style={{ backgroundColor: "#F7ECFF" }}>
-        <Card.Title title="Fato Aleatório 🐾" titleStyle={{ color: "#6A4BA3" }} />
+        <Card.Title title="Fato Aleatório" titleStyle={{ color: "#6A4BA3" }} />
         <Card.Content>
           {loading ? (
             <ActivityIndicator />
@@ -58,12 +58,12 @@ export default function HomeScreen() {
       </Card>
 
       <Button mode="contained" style={{ marginTop: 20 }} onPress={loadFact}>
-        Novo fato 💜
+        Novo fato 
       </Button>
 
       <Link href="/list" asChild>
         <Button mode="outlined" style={{ marginTop: 20 }}>
-          Ver lista fofinha 🐱✨
+          Ver lista fofinha
         </Button>
       </Link>
 
